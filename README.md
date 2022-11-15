@@ -17,3 +17,8 @@ The folder Assignment 4 contains the ipynb file as well as the dataset worked up
 ## Assignment - 5
 
 The folder Assignment 5 contains all the 4 questions as well as the data set. It contains a brief summary and explanation of the assignment and related topics and inferences as well. The demo video is contained in the drive whose link is mentioned above
+
+
+## Assignment - 6
+
+The folder Assignment 6 contains both the questions as well as the data set. It contains a brief summary and explanation of the assignment and related topics and inferences as well. The demo video is exempted as I showed semonstrated the solution in class.
